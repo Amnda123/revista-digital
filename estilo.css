@@ -3,5 +3,5 @@ body{
     color: black;
 }
 .cabecalho{
-    background:(to right, pink 30%, rgb(255, 66, 176) 30%)
+    background:linear-gradient(to right, pink 30%, rgb(255, 66, 176) 30%)
 }
