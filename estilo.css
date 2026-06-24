@@ -19,4 +19,10 @@ body{
 .cabecalho{
     background-image: url(./img/imagem_de_fone.webp);
     height: 300 px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cabecalho-img{
+    width: 50 px;
+    height: 50 px;
 }
