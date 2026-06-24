@@ -21,6 +21,8 @@ body{
     height: 500px;
     background-repeat: no-repeat;
     background-size: cover;
+  display: grid;
+  grid-template-columns: 50% 50%;
 }
 .cabecalho-img{
     width: 50px;
