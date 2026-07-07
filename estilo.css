@@ -42,6 +42,8 @@ body{
     padding:32px;
     justify-content: center;
     align-items: center;
+    background-color: white;
+    font-size: 24px;
 }
 .conteudo01-img{
     width: 40%
