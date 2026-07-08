@@ -47,15 +47,4 @@ body{
 }
 .conteudo01-img{
     width: 40%
-}
-.conteudo02{
-    display: flex;
-    padding:32px;
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(0, 217, 255);
-    font-size: 24px;
-}
-.conteudo02{
-    width: 30%;
-}
+} 
